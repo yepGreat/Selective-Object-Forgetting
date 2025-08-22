@@ -1,4 +1,4 @@
-# Reinforcement-Unlearning
+# Fine-Grained Reinforcement Unlearning: Selective Object Forgetting in Complex Environments
 Machine unlearning refers to the process of mitigating the influence of specific training data on machine learning models based on removal requests from data owners. 
 This practice has gained significant attention. 
 However, one important area that has been largely overlooked in the research of unlearning is reinforcement learning. 
@@ -11,8 +11,4 @@ The second method leverages environment poisoning attacks, which encourages the 
 Particularly, to tackle the third challenge, we introduce the concept of ``environment reconstruction inference'' to evaluate the reinforcement unlearning outcomes. 
 Through extensive experimentation, we demonstrate the effectiveness of our proposed methods in various scenarios. 
 
-
-
-
-https://github.com/cp-lab-uts/Reinforcement-Unlearning/assets/64918395/673ae1ff-5481-4eb2-9c80-663a2c481375
 
